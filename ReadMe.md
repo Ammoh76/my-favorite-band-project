@@ -13,4 +13,4 @@ You need to have git installed.You can install it with the following in your ter
 ### Technologies used
 1. HTML
 1. CSS
-1. Githh
+1. Git
