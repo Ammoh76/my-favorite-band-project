@@ -16,3 +16,5 @@ You need to have git installed.You can install it with the following in your ter
 1. Git
 ### Live site
 view [live](https://Ammoh76.github.io/my-favorite-band-project/)
+## Licence
+This project is under the  [MIT](LICENSE) licence
