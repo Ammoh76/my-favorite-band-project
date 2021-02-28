@@ -10,3 +10,7 @@ You need to have git installed.You can install it with the following in your ter
 1. Use this command to clone `$ git clone  https://github.com/Ammo76/my-favorite-band-project.git`
 1. This will clone the repositoty into your local folder
 1. _Enjoy :)_
+### Technologies used
+1. HTML
+1. CSS
+1. Git
