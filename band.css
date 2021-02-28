@@ -1,5 +1,7 @@
-h1{
-  color: greenyellow
+h1:hover{
+  color: greenyellow;
+  padding-left: 50px;
+  font-size: 30px;
 }
 h2{
   color: gold;
@@ -18,4 +20,7 @@ ul{
 }
 ol{
   font-family: 'Helvetica';
+}
+a:visited{
+  color: green;
 }
