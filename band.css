@@ -1,7 +1,11 @@
-h1:hover{
+h1{
   color: greenyellow;
   padding-left: 50px;
   font-size: 30px;
+  border-style:hidden;
+  border-width: 10px;
+  display: block;
+  font-weight: bold;
 }
 h2{
   color: gold;
@@ -20,7 +24,18 @@ ul{
 }
 ol{
   font-family: 'Helvetica';
+  font-style: italic;
 }
 a:visited{
   color: green;
+}
+div{
+  color: yellow;
+}
+ul:hover{
+  padding-left: 50px;
+  font-size: medium;
+}
+body{
+  overflow: auto;
 }
